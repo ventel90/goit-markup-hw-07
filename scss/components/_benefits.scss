@@ -1,0 +1,22 @@
+.benefits__thumb {
+    display: flex;
+    padding: 25px 100px;
+    background-color: $bg-btn;
+    border-radius: 4px;
+    margin-bottom: $cards-set-gap;
+    align-items: center;
+    justify-content: center;
+}
+
+.benefits__list {
+    $cards-item: 4;
+}
+
+.benefits__title {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
