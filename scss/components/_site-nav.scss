@@ -42,7 +42,7 @@
     margin-left: auto;
 
     :not(:last-child) {
-    margin-right: $cards-set-gap;}
+    margin-right: var(--cards-set-gap);}
 }
 
 .nav-contacts__link {

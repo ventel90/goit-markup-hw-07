@@ -1,13 +1,13 @@
 .cards-set {
     display: flex;
     flex-wrap: wrap;
-    gap:$cards-set-gap;
+    gap:var(--cards-set-gap);
     /* margin-top: calc(-1 * $cards-set-gap);
     margin-left: calc(-1 * $cards-set-gap); */
 }
 
 .cards-set__item {
-    flex-basis: calc((100% - ($cards-item - 1) * $cards-set-gap) / $cards-item);
+    flex-basis: calc((100% - (var(--cards-item) - 1) * var(--cards-set-gap)) / var(--cards-item));
     /* margin-top: $cards-set-gap;
     margin-left: $cards-set-gap; */
 }

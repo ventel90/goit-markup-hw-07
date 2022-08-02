@@ -1,3 +1,8 @@
+:root{
+--cards-item: 3;
+--cards-set-gap: 30px;
+}
+
 $primary-color: #212121;
 $secondary-color: #757575;
 $accent-color: #2196f3;
@@ -11,8 +16,7 @@ $border: #ECECEC;
 $soc-icon: #AFB1B8;
 $border-card: 1px solid #EEEEEE;
 $gradient: linear-gradient(to right, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4));
-$cards-set-gap: 30px;
-$cards-item: 3;
+
 $box-shadow-team: 0px 1px 3px rgba(0, 0, 0, 0.12),
         0px 1px 1px rgba(0, 0, 0, 0.14),
         0px 2px 1px rgba(0, 0, 0, 0.2);
