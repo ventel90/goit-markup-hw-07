@@ -118,8 +118,8 @@
     color: $primary-color;
     transition: color $transition-effect;
 
-.modal-field__input:hover &,
-.modal-field__input:focus-within &
+.modal-field:hover &,
+.modal-field:focus-within &
 {color: $accent-color;
  cursor: pointer;}
 }
