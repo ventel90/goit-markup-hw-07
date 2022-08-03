@@ -232,6 +232,7 @@ img {
   margin-left: $cards-set-gap; */
 }
 
+/*SITE NAVIGATION*/
 .site-nav {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -281,6 +282,7 @@ img {
   background-color: #2196f3;
 }
 
+/*NAVIGATION CONTACTS*/
 .nav-contacts {
   display: -webkit-inline-box;
   display: -ms-inline-flexbox;
@@ -373,6 +375,7 @@ img {
   background-color: #188CE8;
 }
 
+/*SOCIAL LINKS LIST*/
 .social-list {
   --cards-item: 4;
   --cards-set-gap: 10px ;
@@ -597,6 +600,7 @@ img {
   color: #2196f3;
 }
 
+/*CUSTOM CHECKBOX*/
 .checkbox {
   position: absolute;
   width: 1px;
@@ -631,6 +635,7 @@ img {
   border: 1.5px solid #2196f3;
 }
 
+/*HEADER*/
 .header {
   font-weight: 500;
   font-size: 14px;
@@ -648,6 +653,7 @@ img {
           align-items: center;
 }
 
+/*SECTION HERO*/
 .hero {
   background-color: #2F303A;
   max-width: 1600px;
@@ -677,6 +683,7 @@ img {
   color: #FFFFFF;
 }
 
+/*SECTION BENEFITS*/
 .benefits__thumb {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -706,6 +713,7 @@ img {
   margin-bottom: 10px;
 }
 
+/*SECTION WORK*/
 .work {
   padding-top: 0;
 }
@@ -732,6 +740,7 @@ img {
   background: rgba(47, 48, 58, 0.8);
 }
 
+/*SECTION TEAM*/
 .team {
   padding-bottom: 92px;
   background-color: #F5F4FA;
@@ -769,6 +778,7 @@ img {
   margin-bottom: 16px;
 }
 
+/*SECTION CLIENTS*/
 .clients__list {
   --cards-item: 6;
 }
@@ -799,6 +809,7 @@ img {
   fill: currentColor;
 }
 
+/*FOOTER*/
 .footer {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -911,7 +922,7 @@ img {
   margin-left: 10px;
 }
 
-/*BTNS*/
+/*FILTER BTNS*/
 .filters {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -951,7 +962,7 @@ img {
           box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
 }
 
-/*PORTFOLIO*/
+/*SECTION PORTFOLIO CARDS*/
 .cards__link {
   display: -webkit-box;
   display: -ms-flexbox;
